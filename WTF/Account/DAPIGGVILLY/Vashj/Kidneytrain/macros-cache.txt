@@ -1,0 +1,5 @@
+VER 3 0100000000000027 " " "INV_MISC_QUESTIONMARK"
+#showtooltip shroud of concealment
+/cast stealth
+/cast shroud of concealment
+END

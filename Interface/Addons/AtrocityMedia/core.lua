@@ -1,0 +1,10 @@
+local LSM = LibStub("LibSharedMedia-3.0")
+
+LSM:Register("statusbar","Atrocity", [[Interface\Addons\AtrocityMedia\Atrocity.tga]])
+LSM:Register("statusbar","Kait", [[Interface\Addons\AtrocityMedia\Kait.tga]])
+LSM:Register("sound","Info", [[Interface\Addons\AtrocityMedia\Info.ogg]])
+LSM:Register("sound","Long", [[Interface\Addons\AtrocityMedia\Long.ogg]])
+LSM:Register("sound","Mail", [[Interface\Addons\AtrocityMedia\Mail.ogg]])
+LSM:Register("sound","Victory", [[Interface\Addons\AtrocityMedia\Victory.ogg]])
+LSM:Register("sound","Alarm", [[Interface\Addons\AtrocityMedia\Alarm.ogg]])
+LSM:Register("sound","Alert", [[Interface\Addons\AtrocityMedia\Alert.ogg]])

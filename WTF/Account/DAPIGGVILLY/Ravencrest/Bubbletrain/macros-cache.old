@@ -1,0 +1,75 @@
+VER 3 0100000000000011 "CD" "INV_MISC_QUESTIONMARK"
+#showtooltip
+/cast avenging wrath
+/use Sinful Aspirant's Badge of Ferocity
+/cast seraphim
+END
+VER 3 0100000000000010 "Cursor" "INV_MISC_QUESTIONMARK"
+#showtooltip
+/cast [@cursor] Final Reckoning
+END
+VER 3 010000000000000D "Cursor" "INV_MISC_QUESTIONMARK"
+#showtooltip
+/cast [@cursor] ashen hallow
+END
+VER 3 0100000000000004 "Mouseover" "INV_MISC_QUESTIONMARK"
+#showtooltip
+/cast [@mouseover,help,nodead] [] beacon of light
+END
+VER 3 0100000000000009 "Mouseover" "INV_MISC_QUESTIONMARK"
+#showtooltip
+/cast [@mouseover,help,nodead] [] blessing of freedom
+END
+VER 3 0100000000000006 "Mouseover" "INV_MISC_QUESTIONMARK"
+#showtooltip
+/cast [@mouseover,help,nodead] [] lay on hands
+END
+VER 3 010000000000000A "Mouseover" "INV_MISC_QUESTIONMARK"
+#showtooltip
+/cast [@mouseover,help,nodead] [] flash of light
+END
+VER 3 0100000000000008 "Mouseover" "INV_MISC_QUESTIONMARK"
+#showtooltip
+/cast [@mouseover,help,nodead] [] blessing of protection
+END
+VER 3 0100000000000007 "Mouseover" "INV_MISC_QUESTIONMARK"
+#showtooltip
+/cast [@mouseover,help,nodead] [] blessing of sacrifice
+END
+VER 3 010000000000000E "Mouseover" "INV_MISC_QUESTIONMARK"
+#showtooltip divine toll
+/cast rule of law
+/cast [@mouseover,help,nodead] [] divine toll
+END
+VER 3 010000000000000F "Mouseover" "INV_MISC_QUESTIONMARK"
+#showtooltip
+/cast [@mouseover,help,nodead] [] beacon of faith
+END
+VER 3 010000000000000B "Mouseover" "INV_MISC_QUESTIONMARK"
+#showtooltip
+/cast [@mouseover,help,nodead] [] cleanse
+END
+VER 3 0100000000000001 "Mouseover" "INV_MISC_QUESTIONMARK"
+#showtooltip
+/cast [@mouseover,help,nodead] [] holy light
+END
+VER 3 0100000000000012 "Mouseover" "INV_MISC_QUESTIONMARK"
+#showtooltip
+/use [@mouseover,help,nodead] [] Tuft of Smoldering Plumage
+END
+VER 3 0100000000000013 "Mouseover" "INV_MISC_QUESTIONMARK"
+#showtooltip
+/cast [@mouseover,help,nodead] [] turn evil
+END
+VER 3 0100000000000002 "Mousover" "INV_MISC_QUESTIONMARK"
+#showtooltip
+/cast [@mouseover,help,nodead] [] holy shock
+END
+VER 3 0100000000000003 "Mousover" "INV_MISC_QUESTIONMARK"
+#showtooltip
+/cast [@mouseover,help,nodead] [] word of glory
+END
+VER 3 0100000000000005 "Mousover" "INV_MISC_QUESTIONMARK"
+#showtooltip
+/cast [@mouseover,help,nodead] [] light of the martyr
+END

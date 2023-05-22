@@ -1,0 +1,58 @@
+
+RaiderIO_Config = {
+	["useEnglishAbbreviations"] = false,
+	["enableKeystoneTooltips"] = true,
+	["disableScoreColors"] = false,
+	["showMainBestScore"] = true,
+	["allowClientToControlCombatLog"] = true,
+	["inverseProfileModifier"] = false,
+	["enableWhoTooltips"] = true,
+	["enableCombatLogTracking"] = false,
+	["showScoreInCombat"] = true,
+	["lockProfile"] = false,
+	["showMainsScore"] = true,
+	["showRaiderIOProfile"] = true,
+	["enableLFGDropdown"] = true,
+	["enableGuildTooltips"] = true,
+	["enableClientEnhancements"] = true,
+	["mplusHeadlineMode"] = 1,
+	["enableProfileModifier"] = true,
+	["positionProfileAuto"] = true,
+	["showRoleIcons"] = true,
+	["enableFriendsTooltips"] = true,
+	["showRaidEncountersInProfile"] = true,
+	["showDropDownCopyURL"] = true,
+	["showAverageScore"] = true,
+	["enableLFGTooltips"] = true,
+	["hidePersonalRaiderIOProfile"] = false,
+	["enableUnitTooltips"] = true,
+	["enableWhoMessages"] = true,
+	["showSimpleScoreColors"] = false,
+	["showScoreModifier"] = false,
+	["showClientGuildBest"] = true,
+}
+RaiderIO_LastCharacter = "eu-Bubbletrain-ravencrest"
+RaiderIO_MissingCharacters = {
+	["eu-Skylosh-ravencrest"] = true,
+	["eu-Bubbletrain-ravencrest"] = true,
+	["eu-Feomir-ravencrest"] = true,
+	["eu-Shaktine-ravencrest"] = true,
+	["eu-Hadyr-ravencrest"] = true,
+	["eu-Velence-ravencrest"] = true,
+	["eu-ris-kirin-tor"] = true,
+	["eu-Liesl-frostmourne"] = true,
+	["eu-Príus-ravencrest"] = true,
+	["eu-Vryann-ravencrest"] = true,
+	["eu-party3-ravencrest"] = true,
+	["eu-Soulofhunt-ravencrest"] = true,
+	["eu-party5-ravencrest"] = true,
+	["eu-Dmagicd-tirion"] = true,
+	["eu-Tebzs-ravencrest"] = true,
+	["eu-Брызговик-gordunni"] = true,
+	["eu-Pewpewcus-ravencrest"] = true,
+}
+RaiderIO_MissingServers = {
+}
+RaiderIO_CachedRuns = nil
+RaiderIO_RWF = {
+}

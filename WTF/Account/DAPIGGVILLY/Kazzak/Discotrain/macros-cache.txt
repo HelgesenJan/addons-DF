@@ -1,0 +1,4 @@
+VER 3 0100000000000001 "Mouseover" "INV_MISC_QUESTIONMARK"
+#showtooltip Flash Heal
+/use [@mouseover,help,nodead][help,nodead][@player] Flash Heal
+END

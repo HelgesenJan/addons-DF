@@ -1,0 +1,10 @@
+VER 3 0100000000000002 " Felgaurd" "INV_MISC_QUESTIONMARK"
+/cast fel domination
+/cast summon felguard
+END
+VER 3 0100000000000004 "Attack" "INV_MISC_QUESTIONMARK"
+END
+VER 3 0100000000000005 "Imp" "INV_MISC_QUESTIONMARK"
+/cast fel domination
+/cast summon imp
+END

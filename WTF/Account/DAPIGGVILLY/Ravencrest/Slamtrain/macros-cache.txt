@@ -1,0 +1,5 @@
+VER 3 0100000000000001 " " "INV_MISC_QUESTIONMARK"
+/cast avatar
+/cast battle cry
+/cast blood fury
+END

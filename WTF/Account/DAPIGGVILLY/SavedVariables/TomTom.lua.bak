@@ -1,0 +1,38 @@
+
+TomTomDB = {
+	["profileKeys"] = {
+		["Dreamtrain - Ravencrest"] = "Default",
+	},
+	["profiles"] = {
+		["Default"] = {
+			["arrow"] = {
+				["position"] = {
+					"CENTER", -- [1]
+					nil, -- [2]
+					"CENTER", -- [3]
+					0, -- [4]
+					0, -- [5]
+				},
+			},
+			["block"] = {
+				["position"] = {
+					"BOTTOMLEFT", -- [1]
+					nil, -- [2]
+					"BOTTOMLEFT", -- [3]
+					422.886962890625, -- [4]
+					27.22312545776367, -- [5]
+				},
+			},
+		},
+	},
+}
+TomTomWaypoints = nil
+TomTomWaypointsM = {
+	["profileKeys"] = {
+		["Dreamtrain - Ravencrest"] = "Dreamtrain - Ravencrest",
+	},
+	["profiles"] = {
+		["Dreamtrain - Ravencrest"] = {
+		},
+	},
+}

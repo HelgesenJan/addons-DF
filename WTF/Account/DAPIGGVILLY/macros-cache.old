@@ -1,0 +1,234 @@
+VER 3 000000000000000C " " "INV_MISC_QUESTIONMARK"
+#showtooltip frenzied regeneration
+/stopcasting
+/cast !bear form
+/cast frenzied regeneration
+END
+VER 3 0000000000000007 " " "INV_MISC_QUESTIONMARK"
+#showtooltip
+/cast [indoors] Cat Form
+/cast [outdoors] Travel Form(Shapeshift)
+END
+VER 3 0000000000000038 " " "INV_MISC_QUESTIONMARK"
+#showtooltip
+/cast Celestial Alignment
+/cast Incarnation: Chosen of Elune(Talent, Shapeshift)
+/use Tarnished Sentinel Medallion
+END
+VER 3 0000000000000009 " " "INV_MISC_QUESTIONMARK"
+#showtooltip frenzied regeneration
+/stopcasting
+/castsequence reset=0.5 !bear form, frenzied regeneration
+END
+VER 3 000000000000008C "13" "134400"
+/use [@mouseover] 13
+END
+VER 3 000000000000008D "14" "134400"
+/use [@mouseover] 14
+END
+VER 3 0000000000000055 "AAP_MACRO" "INV_MISC_QUESTIONMARK"
+/script print('no button yet')
+END
+VER 3 000000000000007D "Aura" "INV_MISC_QUESTIONMARK"
+#showtooltip
+/cast [form:0/4] Crusader Aura; [form:1] Devotion Aura; [form:2/3] Retribution Aura
+END
+VER 3 0000000000000057 "Bear bash" "INV_MISC_QUESTIONMARK"
+#showtooltip skull bash
+/cast [nostance:1] Bear Form; [stance:1, target=focus] Skull Bash(Bear Form)
+END
+VER 3 000000000000006C "Blast" "INV_MISC_QUESTIONMARK"
+#showtooltip
+/cast elemental blast
+END
+VER 3 0000000000000056 "Cat Bash" "INV_MISC_QUESTIONMARK"
+#showtooltip skull bash
+/cast [nostance:3] Cat Form; [stance:3, target=focus] Skull Bash(Cat Form)
+END
+VER 3 0000000000000097 "Covenant + Vamp" "134400"
+#showtooltip Shadow Covenant
+/cast Shadow Covenant
+/cast Vampiric Embrace
+END
+VER 3 000000000000007E "Cursor" "INV_MISC_QUESTIONMARK"
+#showtooltip
+/cast [@cursor] wind rush totem
+END
+VER 3 0000000000000059 "Cursor" "INV_MISC_QUESTIONMARK"
+#showtooltip
+/cast [@cursor] Shadow Crash
+END
+VER 3 0000000000000076 "Cursor" "INV_MISC_QUESTIONMARK"
+#showtooltip
+/cast [@cursor] door of shadows
+END
+VER 3 0000000000000078 "Cursor" "INV_MISC_QUESTIONMARK"
+#showtooltip
+/cast [@cursor] Earthgrab Totem
+END
+VER 3 0000000000000099 "DRAGON TRAINING" "134400"
+/run for i=2148,2153,1 do V=C_CurrencyInfo.GetCurrencyInfo(i); print(V.name.." - discovered:",tostring(V.discovered)..", quantity:",tostring(V.quantity)) end
+END
+VER 3 0000000000000091 "Evoker ress" "134400"
+#showtooltip
+/use [nocombat,@dead, @mouseover, help]Return(Bronze)
+/use [nocombat]Mass Return(Bronze)
+END
+VER 3 0000000000000085 "Focus" "INV_MISC_QUESTIONMARK"
+/cast Earth Elemental
+/target Greater Earth Elemental
+/focus
+/targetlasttarget
+END
+VER 3 000000000000006B "Frost" "INV_MISC_QUESTIONMARK"
+#show Icefury
+/castsequence Icefury, Frost Shock, Frost shock, Frost Shock, Frost Shock
+END
+VER 3 0000000000000073 "HEAL" "INV_MISC_QUESTIONMARK"
+#showtooltip Mindgames(Venthyr)
+/cast desperate prayer
+/cast Mindgames(Venthyr)
+END
+VER 3 0000000000000092 "Monk ress" "134400"
+#showtooltip
+/use [nocombat,@dead, @mouseover, help]Resuscitate
+/use [nocombat]Reawaken
+END
+VER 3 0000000000000058 "Moonkin" "INV_MISC_QUESTIONMARK"
+#showtooltip
+/cast [indoors] Moonkin form
+/cast [outdoors] Travel Form(Shapeshift)
+END
+VER 3 000000000000007A "Mouseover" "INV_MISC_QUESTIONMARK"
+#showtooltip
+/cast [@mouseover,harm,nodead][] dispel magic
+END
+VER 3 000000000000005E "Mouseover" "INV_MISC_QUESTIONMARK"
+#showtooltip Power word: shield
+/use [@mouseover,help,nodead][help,nodead][@player] Power word: shield
+END
+VER 3 0000000000000061 "Mouseover" "INV_MISC_QUESTIONMARK"
+#showtooltip
+/cast [@mouseover,help,nodead] [] prayer of mending
+END
+VER 3 0000000000000068 "Mouseover" "INV_MISC_QUESTIONMARK"
+#showtooltip
+/cast [@mouseover,help,nodead] [] shackle undead
+END
+VER 3 0000000000000063 "Mouseover" "INV_MISC_QUESTIONMARK"
+#showtooltip
+/cast [@mouseover,help,nodead] [] heal
+END
+VER 3 0000000000000067 "Mouseover" "INV_MISC_QUESTIONMARK"
+#showtooltip
+/cast [@mouseover,help,nodead] [] Circle of healing
+END
+VER 3 0000000000000069 "Mouseover" "INV_MISC_QUESTIONMARK"
+#showtooltip
+/cast [@mouseover,harm,nodead][] mind soothe
+END
+VER 3 0000000000000083 "Mouseover" "INV_MISC_QUESTIONMARK"
+#showtooltip
+/cast [@mouseover,help,nodead] [] Fae Guardians(Night Fae)
+END
+VER 3 000000000000006D "Mouseover" "INV_MISC_QUESTIONMARK"
+#showtooltip
+/use [@mouseover] Manabound Mirror
+END
+VER 3 000000000000006F "Mouseover" "INV_MISC_QUESTIONMARK"
+#showtooltip
+/use [@mouseover] Tuft of Smoldering Plumage
+END
+VER 3 0000000000000087 "Mouseover" "134400"
+#showtooltip
+/cast [@mouseover,help,nodead] [] purify
+END
+VER 3 0000000000000088 "Mouseover" "134400"
+#showtooltip
+/cast [@mouseover,harm,nodead][] flash heal
+END
+VER 3 0000000000000089 "Mouseover" "134400"
+#showtooltip
+/cast [@cursor] Light's hammer
+END
+VER 3 000000000000008A "Mouseover" "134400"
+#showtooltip
+/cast [@mouseover,help,nodead] [] shadow covenant
+END
+VER 3 000000000000008B "Mouseover" "134400"
+#showtooltip
+/cast [@mouseover,help,nodead] [] power word: life
+END
+VER 3 0000000000000074 "Mouseover" "INV_MISC_QUESTIONMARK"
+#showtooltip
+/cast [@mouseover,harm,nodead][] hammer of justice
+END
+VER 3 0000000000000062 "Mouseover" "INV_MISC_QUESTIONMARK"
+#showtooltip
+/cast [@mouseover,help,nodead] [] holy word: serenity
+END
+VER 3 000000000000008E "Mouseover" "134400"
+#showtooltip
+/cast [@mouseover,help,nodead] [] bestow faith
+END
+VER 3 0000000000000090 "Mouseover" "134400"
+#showtooltip
+/cast [@mouseover,help,nodead] [] barrier of faith
+END
+VER 3 000000000000007B "Mouseover" "INV_MISC_QUESTIONMARK"
+#showtooltip
+/cast [@mouseover,help,nodead] [] Binding Heal
+END
+VER 3 0000000000000066 "Mouseover" "INV_MISC_QUESTIONMARK"
+#showtooltip
+/cast [@mouseover,help,nodead] [] prayer of healing
+END
+VER 3 0000000000000093 "Mouseover" "134400"
+#showtooltip
+/cast [@mouseover,help,nodead] [] blessing of summer
+END
+VER 3 0000000000000095 "Mouseover" "134400"
+#showtooltip
+/cast [@mouseover,help,nodead] [] Intercession
+END
+VER 3 0000000000000096 "Mouseover" "134400"
+#showtooltip
+/use [nocombat,@dead, @mouseover, help]Ancestral Spirit
+/use [nocombat]Ancestral Vision
+END
+VER 3 000000000000005F "Mouseover" "INV_MISC_QUESTIONMARK"
+#showtooltip Shadow Mend
+/use [@mouseover,help,nodead][help,nodead][@player] Shadow Mend
+END
+VER 3 0000000000000060 "Mouseover" "INV_MISC_QUESTIONMARK"
+#showtooltip
+/cast [@mouseover,help,nodead] [] renew
+END
+VER 3 000000000000009A "Mouseover" "134400"
+#showtooltip
+/cast [@cursor] Ancestral Protection Totem
+END
+VER 3 0000000000000080 "myFood" "INV_MISC_QUESTIONMARK"
+#showtooltip
+/run local a,b,c,d="Conjured Mana Bun","Azure Leywine","myFood" d=GetMacroBody(c)EditMacro(c,c,nil,strsub(d,1,strfind(d,";\n")).."\n/use "..(GetItemCount(a)>0 and a or b));
+/use Azure Leywine
+END
+VER 3 0000000000000098 "Paladin ress" "134400"
+#showtooltip
+/use [nocombat,@dead, @mouseover, help]Redemption
+/use [nocombat]Absolution
+END
+VER 3 0000000000000094 "Priest ress" "134400"
+#showtooltip
+/use [nocombat,@dead, @mouseover, help]Resurrection
+/use [nocombat]Mass Resurrection
+END
+VER 3 0000000000000052 "TSMMacro" "Achievement_Faction_GoldenLotus"
+/click TSMVendoringSellAllButton
+/click TSMAuctioningCancelButton
+/click TSMCraftNextButton
+/click TSMShoppingCancelConfirmationButton
+/click TSMAuctioningPostButton
+/click TSMShoppingBuyoutButton
+/click TSMShoppingBuyoutConfirmationButton
+END

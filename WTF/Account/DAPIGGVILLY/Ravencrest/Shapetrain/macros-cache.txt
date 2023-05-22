@@ -1,0 +1,53 @@
+VER 3 0100000000000004 "Cursor" "INV_MISC_QUESTIONMARK"
+#showtooltip
+/cast [@cursor] efflorescence
+END
+VER 3 010000000000000A "Cursor" "INV_MISC_QUESTIONMARK"
+#showtooltip
+/cast [@cursor] ursol's vortex
+END
+VER 3 010000000000000F "Flourish + Vigil" "134400"
+#showtooltip flourish
+/cast flourish
+/cast nature's vigil
+END
+VER 3 0100000000000002 "Mouseover" "INV_MISC_QUESTIONMARK"
+#showtooltip
+/cast [@mouseover,help,nodead] [] wild growth
+END
+VER 3 0100000000000005 "Mouseover" "INV_MISC_QUESTIONMARK"
+#showtooltip
+/cast [@mouseover,help,nodead] [] ironbark
+END
+VER 3 0100000000000006 "Mouseover" "INV_MISC_QUESTIONMARK"
+#showtooltip
+/cast [@mouseover,help,nodead] [] Cenarion Ward
+END
+VER 3 0100000000000003 "Mouseover" "INV_MISC_QUESTIONMARK"
+#showtooltip
+/cast [@mouseover,help,nodead] [] regrowth
+END
+VER 3 0100000000000009 "Mouseover" "INV_MISC_QUESTIONMARK"
+#showtooltip
+/cast [@mouseover,help,nodead] [] entangling roots
+END
+VER 3 010000000000000B "Mouseover" "INV_MISC_QUESTIONMARK"
+#showtooltip
+/cast [@mouseover,help,nodead] [] Innervate
+END
+VER 3 010000000000000C "Mouseover" "INV_MISC_QUESTIONMARK"
+#showtooltip
+/cast [@mouseover,help,nodead] [] Rebirth
+END
+VER 3 010000000000000E "Mouseover" "134400"
+#showtooltip
+/cast [@mouseover,help,nodead] [] Adaptive Swarm
+END
+VER 3 0100000000000008 "Mouseover" "INV_MISC_QUESTIONMARK"
+#showtooltip
+/cast [@mouseover,help,nodead] [] nature's cure
+END
+VER 3 010000000000000D "Self" "INV_MISC_QUESTIONMARK"
+#showtooltip
+/cast [@player]innervate
+END

@@ -1,0 +1,75 @@
+VER 3 0100000000000004 "Cursor" "INV_MISC_QUESTIONMARK"
+#showtooltip
+/cast [@cursor] power word: barrier
+END
+VER 3 0100000000000003 "Cursor" "INV_MISC_QUESTIONMARK"
+#showtooltip
+/cast [@cursor] mass dispel
+END
+VER 3 0100000000000013 "Cursor" "INV_MISC_QUESTIONMARK"
+#showtooltip
+/cast [@cursor] holy word: sanctify
+END
+VER 3 0100000000000005 "Mouseover" "INV_MISC_QUESTIONMARK"
+#showtooltip
+/cast [@mouseover,help,nodead] [] power infusion
+END
+VER 3 0100000000000009 "Mouseover" "INV_MISC_QUESTIONMARK"
+#showtooltip
+/cast [@mouseover,help,nodead] [] shining force
+END
+VER 3 010000000000001A "Mouseover" "INV_MISC_QUESTIONMARK"
+#showtooltip
+/cast [@mouseover,help,nodead] [] Fae Guardians(Night Fae)
+END
+VER 3 010000000000000A "Mouseover" "INV_MISC_QUESTIONMARK"
+#showtooltip
+/cast [@mouseover,help,nodead] [] purify
+END
+VER 3 0100000000000006 "Mousover" "INV_MISC_QUESTIONMARK"
+#showtooltip
+/cast [@mouseover,help,nodead] [] power word: radiance
+END
+VER 3 0100000000000010 "Mousover" "INV_MISC_QUESTIONMARK"
+#showtooltip
+/cast [@mouseover,help,nodead] [] purify disease
+END
+VER 3 0100000000000007 "Mousover" "INV_MISC_QUESTIONMARK"
+#showtooltip rapture
+/cast [@mouseover,help,nodead] [] rapture
+END
+VER 3 0100000000000001 "Mousover" "INV_MISC_QUESTIONMARK"
+#showtooltip
+/cast [@mouseover,help,nodead] [] Penance
+END
+VER 3 0100000000000002 "Mousover" "INV_MISC_QUESTIONMARK"
+#showtooltip
+/cast [@mouseover,help,nodead] [] pain suppression
+END
+VER 3 0100000000000008 "Mousover" "INV_MISC_QUESTIONMARK"
+#showtooltip
+/cast [@mouseover,help,nodead] [] leap of faith
+END
+VER 3 0100000000000012 "Mousover" "INV_MISC_QUESTIONMARK"
+#showtooltip
+/cast [@mouseover,help,nodead] [] guardian spirit
+END
+VER 3 0100000000000016 "Pot" "INV_MISC_QUESTIONMARK"
+#showtooltip Mindgames(Venthyr)
+/use Potion of Phantom Fire
+/cast Mindgames(Venthyr)
+END
+VER 3 0100000000000014 "Self" "INV_MISC_QUESTIONMARK"
+#showtooltip
+/cast [@player] power infusion
+END
+VER 3 0100000000000019 "Self" "INV_MISC_QUESTIONMARK"
+#showtooltip Angelic Feather
+/cast [@player, nomod] Angelic Feather
+END
+VER 3 0100000000000017 "SS" "INV_MISC_QUESTIONMARK"
+#showtooltip spirit shell
+/use Sinful Aspirant's Badge of Ferocity
+/cast spirit shell
+/cast shadowfiend
+END

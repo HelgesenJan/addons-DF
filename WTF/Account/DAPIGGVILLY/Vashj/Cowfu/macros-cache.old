@@ -1,0 +1,46 @@
+VER 3 0100000000000003 " " "INV_MISC_QUESTIONMARK"
+/cast Energizing elixir
+/cast Blood Fury(Racial)
+END
+VER 3 010000000000000F "A1" "INV_MISC_QUESTIONMARK"
+#showtooltip paralysis
+/target [nomod] arena1
+/cast [mod:shift,@arena1] paralysis
+END
+VER 3 0100000000000010 "A2" "INV_MISC_QUESTIONMARK"
+#showtooltip paralysis
+/target [nomod] arena2
+/cast [mod:shift,@arena2] paralysis
+END
+VER 3 0100000000000011 "A3" "INV_MISC_QUESTIONMARK"
+#showtooltip paralysis
+/target [nomod] arena3
+/cast [mod:shift,@arena3] paralysis
+END
+VER 3 010000000000000E "F" "INV_MISC_QUESTIONMARK"
+/cast [@focus] touch of karma
+END
+VER 3 010000000000001A "F" "INV_MISC_QUESTIONMARK"
+/cast [@focus] Crackling Jade Lightning
+END
+VER 3 0100000000000009 "F" "INV_MISC_QUESTIONMARK"
+/cast [@focus] spear hand strike
+END
+VER 3 010000000000000A "F" "INV_MISC_QUESTIONMARK"
+/cast [@focus] paralysis
+END
+VER 3 0100000000000008 "F" "INV_MISC_QUESTIONMARK"
+/cast [@focus] disable
+END
+VER 3 010000000000001C "P1" "INV_MISC_QUESTIONMARK"
+#showtooltip detox
+/cast [@party1] detox
+END
+VER 3 010000000000001D "P2" "INV_MISC_QUESTIONMARK"
+#showtooltip detox
+/cast [@party2] detox
+END
+VER 3 010000000000001E "P3" "INV_MISC_QUESTIONMARK"
+#showtooltip detox
+/cast [@party3] detox
+END

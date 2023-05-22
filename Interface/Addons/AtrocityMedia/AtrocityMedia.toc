@@ -1,0 +1,9 @@
+## Interface: 90001
+## Version: 1.0
+## Title: |cff9482c9Atrocity|r |cff1784d1Media|r
+## URL: http://twitch.tv/atrocity
+## DefaultState: Enable
+## Notes: Textures and sounds for AtrocityUI » twitch.tv/atrocity.
+
+LibSharedMedia-3.0\lib.xml
+core.lua

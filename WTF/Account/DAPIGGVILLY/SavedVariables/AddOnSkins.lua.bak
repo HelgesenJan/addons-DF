@@ -1,0 +1,42 @@
+
+AddOnSkinsDB = {
+	["profileKeys"] = {
+		["Voidtrain - Vashj"] = "Default",
+		["Kidneytrain - Ravencrest"] = "Default",
+		["Kidneytrain - Vashj"] = "Default",
+		["Fdgfssdfsdf - Ravencrest"] = "Default",
+		["Cobratrain - Ravencrest"] = "Default",
+		["Shocktrain - Ravencrest"] = "Default",
+		["Bubbletrain - Ravencrest"] = "Default",
+		["Shapetrain - Ravencrest"] = "Default",
+		["Shocktrain - Vashj"] = "Default",
+		["Bubbletrain - Vashj"] = "Default",
+		["Cobratrain - Vashj"] = "Default",
+		["Polytrain - Ravencrest"] = "Default",
+		["Shapetrain - Vashj"] = "Default",
+		["Chaostrain - Ravencrest"] = "Default",
+		["Runetrain - Vashj"] = "Default",
+		["Runetrain - Ravencrest"] = "Default",
+		["Slamtrain - Vashj"] = "Default",
+		["Slamtrain - Ravencrest"] = "Default",
+		["Feltrain - Vashj"] = "Default",
+		["Feltrain - Ravencrest"] = "Default",
+		["Voidtrain - Ravencrest"] = "Default",
+		["Discotrain - Kazzak"] = "Default",
+		["Polytrain - Vashj"] = "Default",
+		["Dadasdsada - Ravencrest"] = "Default",
+		["Knuckletrain - Vashj"] = "Default",
+		["Knuckletrain - Ravencrest"] = "Default",
+		["Chaostrain - Vashj"] = "Default",
+		["Voidtrain - Kazzak"] = "Default",
+		["Dreamtrain - Ravencrest"] = "Default",
+	},
+	["profiles"] = {
+		["Default"] = {
+			["PremadeGroupsFilter"] = false,
+			["RareScanner"] = false,
+		},
+	},
+}
+AddOnSkinsDS = {
+}

@@ -1,0 +1,11 @@
+## Interface: 100100
+## Author: Eltreum
+## Version: 1.6
+## Title: Great |c2695B8ffVault|r
+## IconTexture: Interface\AddOns\GreatVault\media\icon
+## AddonCompartmentFunc: GreatVault_OnAddonCompartmentClick
+## Notes: Adds a Minimap Button for the Great Vault
+## SavedVariables: GreatVaultDB
+
+libs\load_libs.xml
+GreatVault.lua

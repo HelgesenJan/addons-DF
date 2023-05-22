@@ -1,0 +1,7 @@
+VER 3 0100000000000001 "Mouseover" "INV_MISC_QUESTIONMARK"
+#showtooltip
+/cast [@cursor] grappling hook
+END
+VER 3 0100000000000002 "Tricks" "INV_MISC_QUESTIONMARK"
+/cast [@mouseover, help] [@focus, help] [@targettarget, help][@Zöldid,exists] Tricks of the Trade
+END

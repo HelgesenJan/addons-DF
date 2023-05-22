@@ -1,0 +1,121 @@
+
+GreatVaultDB = {
+	["profileKeys"] = {
+		["Voidtrain - Vashj"] = "Voidtrain - Vashj",
+		["Kidneytrain - Ravencrest"] = "Kidneytrain - Ravencrest",
+		["Kidneytrain - Vashj"] = "Kidneytrain - Vashj",
+		["Fdgfssdfsdf - Ravencrest"] = "Fdgfssdfsdf - Ravencrest",
+		["Voidtrain - Ravencrest"] = "Voidtrain - Ravencrest",
+		["Shocktrain - Ravencrest"] = "Shocktrain - Ravencrest",
+		["Bubbletrain - Ravencrest"] = "Bubbletrain - Ravencrest",
+		["Shapetrain - Ravencrest"] = "Shapetrain - Ravencrest",
+		["Shocktrain - Vashj"] = "Shocktrain - Vashj",
+		["Bubbletrain - Vashj"] = "Bubbletrain - Vashj",
+		["Cobratrain - Vashj"] = "Cobratrain - Vashj",
+		["Polytrain - Ravencrest"] = "Polytrain - Ravencrest",
+		["Shapetrain - Vashj"] = "Shapetrain - Vashj",
+		["Chaostrain - Ravencrest"] = "Chaostrain - Ravencrest",
+		["Feltrain - Vashj"] = "Feltrain - Vashj",
+		["Runetrain - Ravencrest"] = "Runetrain - Ravencrest",
+		["Slamtrain - Vashj"] = "Slamtrain - Vashj",
+		["Slamtrain - Ravencrest"] = "Slamtrain - Ravencrest",
+		["Runetrain - Vashj"] = "Runetrain - Vashj",
+		["Feltrain - Ravencrest"] = "Feltrain - Ravencrest",
+		["Dadasdsada - Ravencrest"] = "Dadasdsada - Ravencrest",
+		["Polytrain - Vashj"] = "Polytrain - Vashj",
+		["Discotrain - Kazzak"] = "Discotrain - Kazzak",
+		["Cobratrain - Ravencrest"] = "Cobratrain - Ravencrest",
+		["Knuckletrain - Vashj"] = "Knuckletrain - Vashj",
+		["Knuckletrain - Ravencrest"] = "Knuckletrain - Ravencrest",
+		["Chaostrain - Vashj"] = "Chaostrain - Vashj",
+		["Voidtrain - Kazzak"] = "Voidtrain - Kazzak",
+		["Dreamtrain - Ravencrest"] = "Dreamtrain - Ravencrest",
+	},
+	["profiles"] = {
+		["Voidtrain - Vashj"] = {
+			["minimap"] = {
+				["minimapPos"] = 358.8766588195151,
+			},
+		},
+		["Kidneytrain - Ravencrest"] = {
+			["minimap"] = {
+				["minimapPos"] = 357.7541718758251,
+			},
+		},
+		["Kidneytrain - Vashj"] = {
+		},
+		["Fdgfssdfsdf - Ravencrest"] = {
+		},
+		["Voidtrain - Ravencrest"] = {
+			["minimap"] = {
+				["minimapPos"] = 356.1859668964394,
+			},
+		},
+		["Shocktrain - Ravencrest"] = {
+			["minimap"] = {
+				["minimapPos"] = 359.1930925988592,
+			},
+		},
+		["Bubbletrain - Ravencrest"] = {
+			["minimap"] = {
+				["minimapPos"] = 355.5442912794533,
+			},
+		},
+		["Shapetrain - Ravencrest"] = {
+			["minimap"] = {
+				["minimapPos"] = 355.5442912794533,
+			},
+		},
+		["Shocktrain - Vashj"] = {
+		},
+		["Bubbletrain - Vashj"] = {
+		},
+		["Cobratrain - Vashj"] = {
+		},
+		["Polytrain - Ravencrest"] = {
+		},
+		["Shapetrain - Vashj"] = {
+		},
+		["Chaostrain - Ravencrest"] = {
+		},
+		["Feltrain - Vashj"] = {
+		},
+		["Runetrain - Ravencrest"] = {
+		},
+		["Slamtrain - Vashj"] = {
+		},
+		["Slamtrain - Ravencrest"] = {
+		},
+		["Runetrain - Vashj"] = {
+		},
+		["Feltrain - Ravencrest"] = {
+		},
+		["Dadasdsada - Ravencrest"] = {
+		},
+		["Polytrain - Vashj"] = {
+		},
+		["Discotrain - Kazzak"] = {
+			["minimap"] = {
+				["minimapPos"] = 357.7541718758251,
+			},
+		},
+		["Cobratrain - Ravencrest"] = {
+		},
+		["Knuckletrain - Vashj"] = {
+		},
+		["Knuckletrain - Ravencrest"] = {
+			["minimap"] = {
+				["minimapPos"] = 356.2360028431269,
+			},
+		},
+		["Chaostrain - Vashj"] = {
+		},
+		["Voidtrain - Kazzak"] = {
+		},
+		["Dreamtrain - Ravencrest"] = {
+			["minimap"] = {
+				["minimapPos"] = 357.613988961847,
+			},
+		},
+	},
+}

@@ -1,0 +1,73 @@
+VER 3 0100000000000009 "Cursor" "INV_MISC_QUESTIONMARK"
+#showtooltip
+/cast [@cursor] vesper totem
+END
+VER 3 0100000000000008 "Cursor" "INV_MISC_QUESTIONMARK"
+#showtooltip
+/cast [@cursor] healing rain
+END
+VER 3 010000000000000C "Cursor" "INV_MISC_QUESTIONMARK"
+#showtooltip
+/cast [@cursor] capacitor totem
+END
+VER 3 010000000000000E "Cursor" "INV_MISC_QUESTIONMARK"
+#showtooltip
+/cast [@cursor] earthquake
+END
+VER 3 010000000000000D "Cursor" "INV_MISC_QUESTIONMARK"
+#showtooltip
+/cast [@cursor] liquid magma totem
+END
+VER 3 010000000000000F "Cursor" "INV_MISC_QUESTIONMARK"
+#showtooltip
+/use [@cursor] Lingering Sunmote
+END
+VER 3 010000000000000B "Cursor" "INV_MISC_QUESTIONMARK"
+#showtooltip
+/cast [@cursor] earthbind totem
+END
+VER 3 010000000000000A "Cursor" "INV_MISC_QUESTIONMARK"
+#showtooltip
+/cast [@cursor] spirit link totem
+END
+VER 3 0100000000000015 "Cursor" "INV_MISC_QUESTIONMARK"
+#showtooltip
+/cast [@cursor] earthen wall totem
+END
+VER 3 0100000000000001 "Mouseover" "INV_MISC_QUESTIONMARK"
+#showtooltip
+/cast [@mouseover,help,nodead] [] healing wave
+END
+VER 3 0100000000000016 "Mouseover" "INV_MISC_QUESTIONMARK"
+#showtooltip
+/cast [@mouseover,help,nodead] [] Primordial Wave
+END
+VER 3 0100000000000002 "Mousover" "INV_MISC_QUESTIONMARK"
+#showtooltip
+/cast [@mouseover,help,nodead] [] riptide
+END
+VER 3 0100000000000004 "Mousover" "INV_MISC_QUESTIONMARK"
+#showtooltip
+/cast [@mouseover,help,nodead] [] unleash life
+END
+VER 3 0100000000000007 "Mousover" "INV_MISC_QUESTIONMARK"
+#showtooltip
+/cast [@mouseover,help,nodead] [] purify spirit
+END
+VER 3 0100000000000003 "Mousover" "INV_MISC_QUESTIONMARK"
+#showtooltip
+/cast [@mouseover,help,nodead] [] earth shield
+END
+VER 3 0100000000000005 "Mousover" "INV_MISC_QUESTIONMARK"
+#showtooltip
+/cast [@mouseover,help,nodead] [] healing surge
+END
+VER 3 0100000000000006 "Mousover" "INV_MISC_QUESTIONMARK"
+#showtooltip
+/cast [@mouseover,help,nodead] [] chain heal
+END
+VER 3 0100000000000014 "Prime" "133437"
+/cast [@cursor] meteor
+/cast eye of the storm
+/cast pulverize
+END

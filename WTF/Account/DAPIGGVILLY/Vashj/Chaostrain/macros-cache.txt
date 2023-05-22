@@ -1,0 +1,15 @@
+VER 3 0100000000000001 " " "132316"
+/cast cripple
+END
+VER 3 0100000000000002 "Felguard" "INV_MISC_QUESTIONMARK"
+/cast fel domination
+/cast summon felguard
+END
+VER 3 0100000000000004 "Imp" "INV_MISC_QUESTIONMARK"
+/cast fel domination
+/cast summon imp
+END
+VER 3 0100000000000003 "Voidwalker" "INV_MISC_QUESTIONMARK"
+/cast fel domination
+/cast summon voidwalker
+END

@@ -1,0 +1,46 @@
+VER 3 0100000000000001 "Cursor" "INV_MISC_QUESTIONMARK"
+#showtooltip
+/cast [@cursor] summon jade serpent statue
+END
+VER 3 0100000000000002 "Cursor" "INV_MISC_QUESTIONMARK"
+#showtooltip
+/cast [@cursor] ring of peace
+END
+VER 3 0100000000000004 "Mouseover" "INV_MISC_QUESTIONMARK"
+#showtooltip
+/cast [@mouseover,help,nodead] [] vivify
+END
+VER 3 0100000000000005 "Mouseover" "INV_MISC_QUESTIONMARK"
+#showtooltip
+/cast [@mouseover,help,nodead] [] enveloping mist
+END
+VER 3 0100000000000006 "Mouseover" "INV_MISC_QUESTIONMARK"
+#showtooltip
+/cast [@mouseover,help,nodead] [] renewing mist
+END
+VER 3 0100000000000007 "Mouseover" "INV_MISC_QUESTIONMARK"
+#showtooltip
+/cast [@mouseover,help,nodead] [] Soothing mist
+END
+VER 3 0100000000000008 "Mouseover" "INV_MISC_QUESTIONMARK"
+#showtooltip
+/cast [@mouseover,help,nodead] [] life cocoon
+END
+VER 3 0100000000000009 "Mouseover" "INV_MISC_QUESTIONMARK"
+#showtooltip
+/cast [@mouseover,help,nodead] [] detox
+END
+VER 3 010000000000000A "Mouseover" "INV_MISC_QUESTIONMARK"
+#showtooltip
+/cast [@mouseover,help,nodead] [] tiger's lust
+END
+VER 3 010000000000000B "Mouseover" "INV_MISC_QUESTIONMARK"
+#showtooltip
+/cast [@mouseover,harm,nodead][] paralysis
+END
+VER 3 010000000000000C "Talent" "INV_MISC_QUESTIONMARK"
+#showtooltip
+/cast [talent:5/1] Healing Elixir
+/cast [talent:5/2] Diffuse Magic
+/cast [talent:5/3] Dampen Harm
+END
